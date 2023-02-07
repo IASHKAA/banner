@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    background-color: black;
+    color: white;
+}
+ul{
+    display: flex;
+    gap: 50px;
+}
+li{
+    list-style: none;
+}
+div{
+    position: fixed;
+    top: 200px;
+    left: 300px;
+    border-style: groove;
+}
